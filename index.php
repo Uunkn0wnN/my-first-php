@@ -6,7 +6,7 @@
   <!-- tampilan atau ukuran layar -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Memanggil file CSS terpisah -->
-  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
   <!-- Bagian untuk menentukan usia -->
