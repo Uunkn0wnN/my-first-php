@@ -18,12 +18,12 @@
     /* Styling untuk judul */
     h1 {
       font-size: 18px; /* ukuran teks judul */
-      text-decoration: underline; /* menaruh garis bawah pada teks judul*/
+      text-decoration: underline; /* menaruh garis bawah pada teks judul */
     }
     /* Styling untuk footer */
     footer {      
       color: white; /* membuat teks footer menjadi putih */
-      text-align: center; /* letak teks footer di tengah*/
+      text-align: center; /* letak teks footer di tengah */
       padding: 0px 0;
       position: absolute;
       bottom: 0;
