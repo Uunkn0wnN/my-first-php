@@ -2,11 +2,40 @@
 <html>
 <head>
   <!-- website name/title -->
-  <title>Administrator</title>
+  <title>github.com/Uunkn0wnN</title>
   <!-- tampilan atau ukuran layar -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Memanggil file CSS terpisah -->
-  <link rel="stylesheet" type="text/css" href="style.css">
+<!-- CSS --> 
+<style>
+    /* Styling untuk latar belakang, warna teks, font, dan tata letak */
+    body {
+      background: linear-gradient(to bottom, #000000, #333333); /* background warna bergradiasi */
+      color: white; /* warna font */
+      font-family: Arial, sans-serif; /* font type */
+      text-align: center; /* letak teks di tengah */
+      padding: 20px;
+    }
+    /* Styling untuk judul */
+    h1 {
+      font-size: 18px; /* ukuran teks judul */
+      text-decoration: underline; /* menaruh garis bawah pada teks judul */
+    }
+    /* Styling untuk footer */
+    footer {      
+      color: white; /* membuat teks footer menjadi putih */
+      text-align: center; /* letak teks footer di tengah */
+      padding: 0px 0;
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      transform: translateX(-50%);
+      left: 50%;
+    }
+    footer a {
+      color: white; /* membuat link teks footer menjadi putih */
+      text-decoration: none; /* mengapus garis bawah link teks bawaan di footer */
+    }
+  </style>
 </head>
 <body>
   <!-- Bagian untuk menentukan usia -->
